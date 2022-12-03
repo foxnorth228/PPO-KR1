@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">КР1</string>
+    <string name="backButton">Назад</string>
+    <string name="productImage">Изображение продукта</string>
+    <string name="productName">Название</string>
+    <string name="enterName">Введите имя</string>
+    <string name="productCount">Количество</string>
+    <string name="applyButton">Применить</string>
+    <string name="enterCount">Введите кол-во</string>
+    <string name="deleteButton">Удалить</string>
+    <string name="createText">Создать</string>
+    <string-array name="product_list">
+        <item>name1</item>
+        <item>name2</item>
+        <item>name3</item>
+        <item>name4</item>
+        <item>name5</item>
+        <item>name6</item>
+        <item>name7</item>
+        <item>name8</item>
+        <item>name9</item>
+        <item>name10</item>
+        <item>name11</item>
+        <item>name12</item>
+        <item>name13</item>
+        <item>name14</item>
+        <item>name15</item>
+        <item>name16</item>
+        <item>name17</item>
+        <item>name18</item>
+        <item>name19</item>
+        <item>name20</item>
+    </string-array>
+</resources>
